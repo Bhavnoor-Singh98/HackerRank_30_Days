@@ -1,2 +1,2 @@
 # HackerRank_30_Days
-Solution to 30 Days of Code in Java
+Solution to HackerRank's 30 Days of Code in Java
